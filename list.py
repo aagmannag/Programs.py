@@ -1,0 +1,13 @@
+L1=[2,6,7,1,0,4]
+L1.sort()
+print(L1)
+L1.reverse()
+print(L1)
+L1.append(8)
+print(L1)
+L1.insert(0,10)
+print(L1)
+L1.pop(0)
+print(L1)
+L1.remove(8)
+print(L1)
